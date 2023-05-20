@@ -1,0 +1,1 @@
+ go run -gcflags="-d=ssa/check_bce/debug=1" main-bounds-check-elimination.go
